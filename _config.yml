@@ -1,5 +1,5 @@
 # Site settings
-title: Jekyll-Uno
+title: Hyeonseo Ko
 description: 'Thank you for visiting!'
 url: 'https://kohyeonseo.github.io/'
 baseurl: '/KoHyeonSeo'
@@ -10,10 +10,10 @@ baseurl: '/KoHyeonSeo'
 author:
   name: 'Hyeonseo Ko'
   email: rhgustj01@naver.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
+  twitter_username: KoHyeonSeo
+  facebook_username: KoHyeonSeo
   github_username:  KoHyeonSeo
-  linkedin_username:  joshgerdes
+  linkedin_username:  KoHyeonSeo
 
 defaults:
   -
