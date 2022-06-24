@@ -10,10 +10,7 @@ baseurl: ''
 author:
   name: 'Hyeonseo Ko'
   email: rhgustj01@naver.com
-  twitter_username: KoHyeonSeo
-  facebook_username: KoHyeonSeo
   github_username:  KoHyeonSeo
-  linkedin_username:  KoHyeonSeo
 
 defaults:
   -
