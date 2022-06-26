@@ -4,17 +4,16 @@ date:   2022-06-24 15:54:00
 categories: [Hyeonseo]
 tags: [first]
 ---
-Hi, I'm Hyeonseo!
-First, I am happy to meet you who visited my blog.
+<p>Hi, I'm Hyeonseo!</p>
+<p>First, I am happy to meet you who visited my blog.</p>
 
-I'd like to introduce myself.
-I'm Hyeonseo Ko in South Korea.
-I want to be a person who changes this world with computing technology.
-I'm studying Unity, Algorithm, Metaverse - XR / VR / AR
-
-Stay tuned!
-
-Thank you:)
+<p>I'm <b>Hyeonseo</b> Ko lived in South Korea.</p>
+<p>I want to be a person who changes this world with computing technology.</p>
+<p>I'm studying Unity, Algorithm, Metaverse - XR / VR / AR</p>
+<p></p>
+<p>Stay tuned!</p>
+<p></p>
+<p>Thank you:)</p>
 
 
 [jekyll]:      http://jekyllrb.com
