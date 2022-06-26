@@ -6,13 +6,13 @@ tags: [first]
 ---
 <p>Hi, I'm Hyeonseo!</p>
 <p>First, I am happy to meet you who visited my blog.</p>
-
+<br>
 <p>I'm <b>Hyeonseo</b> Ko lived in South Korea.</p>
 <p>I want to be a person who changes this world with computing technology.</p>
 <p>I'm studying Unity, Algorithm, Metaverse - XR / VR / AR</p>
-<p></p>
+<br>
 <p>Stay tuned!</p>
-<p></p>
+<br>
 <p>Thank you:)</p>
 
 
