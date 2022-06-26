@@ -14,6 +14,9 @@ tags: [first]
 <p>Stay tuned!😁</p>
 <br>
 <p>Thank you:)</p>
+<br>
+<p>My First Blog 👉
+<a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
 
 
 [jekyll]:      http://jekyllrb.com
