@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://KoHyeonSeo.github.io/sitemap.xml
+Sitemap: https://kohyeonseo.github.io/sitemap.xml
