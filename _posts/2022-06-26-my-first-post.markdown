@@ -15,7 +15,7 @@ tags: [first]
 <br>
 <p>Thank you:)</p>
 <br>
-<p>Ps. My First Blog Is Here!! 👉 
+<p>Ps. My first blog is here!! 👉 
 <a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
 
 
