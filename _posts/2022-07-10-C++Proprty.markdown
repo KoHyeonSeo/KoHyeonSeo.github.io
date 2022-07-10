@@ -4,7 +4,6 @@ date:   2022-06-24 15:54:00
 categories: [C++ Study]
 tags: [C++ Property]
 ---
-# C++ Auto-Implemented Properties
 The most interesting thing while studying C# is the property function!
 
 After implementing this property as a header file in c++, if you can change it at will, you will use it well for a long time, and I implemented it because I thought the maintenance of the function prototype would be good!
