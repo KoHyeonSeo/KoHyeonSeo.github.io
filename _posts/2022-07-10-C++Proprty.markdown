@@ -11,14 +11,19 @@ After implementing this property as a header file in c++, if you can change it a
 But the problem was a read-only property.
 
 Automatic implementation of properties in C# Read-only properties can simply be made like this.
-
+{% highlight language linenos=table %}
+{% raw %} 
 ```C#
 public int Property {get; private set;}
 Property = 10;
 ```
+{% endraw %} // w 하나 뺀다
+{% endhighlight %}
 <b>I made this function with C++.</b>
 
 ## Property.h
+{% highlight language linenos=table %}
+{% raw %} 
 ```C++
 #pragma once
 //read-write
@@ -48,7 +53,11 @@ public:
 };
 
 ```
+{% endraw %} // w 하나 뺀다
+{% endhighlight %}
 ## main.cpp
+{% highlight language linenos=table %}
+{% raw %} 
 ```C++
 #include<iostream>
 #include "Property.h"
@@ -72,4 +81,7 @@ int main() {
 	prowriteOnly.set("hello");
 }
 ```
+{% endraw %} // w 하나 뺀다
+{% endhighlight %}
+
 <b>Thank you :)</b>
