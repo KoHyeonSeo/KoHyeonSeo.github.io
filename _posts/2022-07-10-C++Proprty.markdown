@@ -13,7 +13,6 @@ But the problem was a read-only property.
 Automatic implementation of properties in C# Read-only properties can simply be made like this.
 
 ```csharp
-
 public int Property {get; private set;}
 Property = 10;
 ```
