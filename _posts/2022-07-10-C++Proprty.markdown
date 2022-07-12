@@ -13,11 +13,11 @@ But the problem was a read-only property.
 Automatic implementation of properties in C# Read-only properties can simply be made like this.
 
 {% highlight language linenos=table %}
-{% raw %} 
-```C#
+{% raw %}
+
 public int Property {get; private set;}
 Property = 10;
-```
+
 {% endraw %} // w 하나 뺀다
 {% endhighlight %}
 
@@ -27,7 +27,7 @@ Property = 10;
 
 {% highlight language linenos=table %}
 {% raw %} 
-```C++
+
 #pragma once
 //read-write
 template<class T> class PropTemp {
@@ -55,7 +55,7 @@ public:
 	void set(T variable) { this->variable = variable; }
 };
 
-```
+	
 {% endraw %} // w 하나 뺀다
 {% endhighlight %}
 
@@ -63,7 +63,7 @@ public:
 
 {% highlight language linenos=table %}
 {% raw %} 
-```C++
+	
 #include<iostream>
 #include "Property.h"
 using namespace std;
@@ -85,7 +85,7 @@ int main() {
 	//cout << "prowriteOnly.get() = " << prowriteOnly.get() << "\n";  -> Error!!
 	prowriteOnly.set("hello");
 }
-```
+	
 {% endraw %} // w 하나 뺀다
 {% endhighlight %}
 
