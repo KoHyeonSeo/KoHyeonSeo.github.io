@@ -13,12 +13,14 @@ But the problem was a read-only property.
 Automatic implementation of properties in C# Read-only properties can simply be made like this.
 
 {% highlight language linenos=table %}
+
 {% raw %}
 
 public int Property {get; private set;}
 Property = 10;
 
-{% endraw %} // w 하나 뺀다
+{% endraw %}
+
 {% endhighlight %}
 
 <b>I made this function with C++.</b>
@@ -26,6 +28,7 @@ Property = 10;
 ## Property.h
 
 {% highlight language linenos=table %}
+
 {% raw %} 
 
 #pragma once
@@ -56,12 +59,14 @@ public:
 };
 
 	
-{% endraw %} // w 하나 뺀다
+{% endraw %}
+	
 {% endhighlight %}
 
 ## main.cpp
 
 {% highlight language linenos=table %}
+	
 {% raw %} 
 	
 #include<iostream>
@@ -86,7 +91,8 @@ int main() {
 	prowriteOnly.set("hello");
 }
 	
-{% endraw %} // w 하나 뺀다
+{% endraw %} 
+	
 {% endhighlight %}
 
 <b>Thank you :)</b>
