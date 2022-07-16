@@ -9,7 +9,7 @@ tags: [first]
 <br>
 <p>I'm <b>Hyeonseo</b> Ko lived in South Korea.</p>
 <p>I want to be a person who changes this world with computing technology.👩‍💻</p>
-<p>I'm studying Unity, Algorithm, Metaverse - XR / VR / AR</p>
+<p>I'm studying Unity, Algorithm, Metaverse - XR </p>
 <br>
 <p>Stay tuned!😁</p>
 <br>
