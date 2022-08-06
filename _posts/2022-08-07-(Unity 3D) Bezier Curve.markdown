@@ -200,8 +200,8 @@ For reference, the Editor script must create and insert an Editor folder within 
 
 ## References
 
-https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%A7%80%EC%97%90_%EA%B3%A1%EC%84%A0
+[References 1](https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%A7%80%EC%97%90_%EA%B3%A1%EC%84%A0)
 
-https://rito15.github.io/posts/unity-study-bezier-curve/
+[References 2](https://rito15.github.io/posts/unity-study-bezier-curve/)
 
 <b>Thank you :)</b>
