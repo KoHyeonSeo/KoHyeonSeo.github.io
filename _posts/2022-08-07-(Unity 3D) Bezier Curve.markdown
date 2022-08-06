@@ -4,7 +4,6 @@ date:   2022-08-07 20:00:00
 categories: [Unity]
 tags: [Bezier Curve]
 ---
-# Bezier Curve with Unity 3D
 ![image](https://user-images.githubusercontent.com/76097749/183246966-a9f9160b-f856-4019-82bf-7c42710c3583.png)
 
 ![image](https://user-images.githubusercontent.com/76097749/183246957-4116eb3b-a176-4aab-8b36-139a9d68d2b4.png)
