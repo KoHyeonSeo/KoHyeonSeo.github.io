@@ -1,5 +1,5 @@
 ---
-title:  "C++ Auto-Implemented Properties"
+title:  "Bezier Curve with Unity 3D"
 date:   2022-08-07 20:00:00
 categories: [Unity]
 tags: [Bezier Curve]
