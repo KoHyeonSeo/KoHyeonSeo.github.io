@@ -5,7 +5,9 @@ categories: [Unity]
 tags: [Bezier Curve]
 ---
 # Bezier Curve with Unity 3D
+![image](https://user-images.githubusercontent.com/76097749/183246966-a9f9160b-f856-4019-82bf-7c42710c3583.png)
 
+![image](https://user-images.githubusercontent.com/76097749/183246957-4116eb3b-a176-4aab-8b36-139a9d68d2b4.png)
 
 If you use the Bezier curve principle to use traces of points on the Bezier curve, you can express a smooth curve.
 <br><br>
@@ -200,6 +202,10 @@ https://user-images.githubusercontent.com/76097749/183246933-40b1309c-6914-4223-
 https://user-images.githubusercontent.com/76097749/183246926-331cbbe8-1f26-46d4-b278-873eb8b6f1fa.mp4
 
 
+## References
 
+https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%A7%80%EC%97%90_%EA%B3%A1%EC%84%A0
+
+https://rito15.github.io/posts/unity-study-bezier-curve/
 
 <b>Thank you :)</b>
