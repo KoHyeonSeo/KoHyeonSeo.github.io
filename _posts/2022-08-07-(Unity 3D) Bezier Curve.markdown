@@ -1,5 +1,5 @@
 ---
-title:  "Bezier Curve with Unity 3D"
+title:  "Bezier Curves Made of Unity"
 date:   2022-08-07 20:00:00
 categories: [Unity]
 tags: [Bezier Curve]
