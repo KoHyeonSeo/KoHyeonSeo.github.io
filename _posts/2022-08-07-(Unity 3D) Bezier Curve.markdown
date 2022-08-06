@@ -189,7 +189,9 @@ public class MovingEditor : Editor
 }
 
 ```
-
+## <b>Be Careful!</b>
+Be careful!<br>
+For reference, the Editor script must create and insert an Editor folder within Unity so that there is no error when building.
 ## Result Video
 
 <video width="100%" height="100%" controls="controls">
